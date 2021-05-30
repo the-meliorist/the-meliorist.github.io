@@ -50,6 +50,7 @@ body {
 .about {
    background-image: url("ribbonbg.png");
    background-repeat: repeat;
+   color: #1c0303;
 }
 
 #hewo {
