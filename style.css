@@ -1,10 +1,14 @@
 body {
+  color: white;
+  font-family: Tahoma, Verdana, Helvetica, Arial, sans-serif;
+}
+
+.home {
   background-image:url('bg.gif');
   background-position: center;
   background-size: cover;
-  color: white;
-  font-family: Tahoma, Verdana, Helvetica, sans-serif;
 }
+
 .welcum {
   margin-top: auto;
   margin-bottom: auto;
@@ -41,3 +45,9 @@ body {
     border-color: white;
 }
 
+ /* end of index */
+
+.about {
+   background-image: url("ribbonbg.png");
+   background-repeat: repeat;
+}
