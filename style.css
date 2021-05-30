@@ -45,6 +45,12 @@ body {
     border-color: white;
 }
 
+
+#abtlink {
+  margin-left: 85px;
+}
+
+
  /* end of index */
 
 .about {
@@ -107,8 +113,4 @@ body {
 .me2 {
   color: #1c0303;
   margin-left: 670px;
-}
-
-#abtlink {
-  margin-left: 110px;
 }
