@@ -2,6 +2,8 @@ body {
   background-color: #dececa;
 }
 .welcum {
+  margin-top: auto;
+  margin-bottom: auto;
   margin-right: 90px;
   margin-left: 90px;
 }
