@@ -109,6 +109,10 @@ a:active {
       margin-left: 150px;
       */
       }
+#bancred {
+  margin-left: 550px;
+  margin-top: -260px;
+}
 
 #portrait2 {
       background-image: url('portrait2.png');
