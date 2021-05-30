@@ -64,9 +64,6 @@ body {
       width: 220px;
       text-align: center;
       border: 8px solid #a89295;
-      background: url('ribbonbg.png');
-      background-size: repeat;
-      background-attachment: fixed;
       position: relative;
       margin-top: 25px;
       margin-left: 30px;
