@@ -141,10 +141,14 @@ a:active {
 .me {
   color: #1c0303;
   margin-left: 645px;
+  position: relative;
+  top: 10px;
 }
 .me2 {
   color: #1c0303;
   margin-left: 670px;
+  position: relative;
+  top: 8px;
 }
 
 #aboutkai {
