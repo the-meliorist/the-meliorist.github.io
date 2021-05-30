@@ -3,6 +3,25 @@ body {
   font-family: Tahoma, Verdana, Helvetica, Arial, sans-serif;
 }
 
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #ede6e8; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #f7d2dd; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #e0c5cd; 
+}
+
 a:link {
   color: #d1c5c6;
 }
@@ -157,7 +176,7 @@ a:active {
   overflow: auto;
   padding: 5px;
   position:relative;
-  left: 545px;
+  left: 550px;
   top: 50px;
   color: #1c0303;
 }
