@@ -146,3 +146,12 @@ a:active {
   color: #1c0303;
   margin-left: 670px;
 }
+
+#aboutkai {
+  width: 350px;
+  height: 300px;
+  overflow: auto;
+  padding: 5px;
+  position:relative;
+  color: #1c0303;
+}
