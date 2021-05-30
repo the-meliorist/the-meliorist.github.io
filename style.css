@@ -48,9 +48,10 @@ body {
  /* end of index */
 
 .about {
+   color: #1c0303;
    background-image: url("ribbonbg.png");
    background-repeat: repeat;
-   color: #1c0303;
+   
 }
 
 #hewo {
