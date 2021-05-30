@@ -148,11 +148,12 @@ a:active {
 }
 
 #aboutkai {
-  width: 350px;
-  height: 300px;
+  width: 450px;
+  height: 350px;
   overflow: auto;
   padding: 5px;
   position:relative;
   left: 500px;
+  top: 50px;
   color: #1c0303;
 }
