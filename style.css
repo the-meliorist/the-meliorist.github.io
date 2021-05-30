@@ -73,7 +73,6 @@ body {
 #portrait1 {
       background-image: url('portrait1.png');
       background-size: 230px;
-      background-position-x: -45px;
       height: 230px;
       width: 230px;
       border: 5px solid #eddddf;
@@ -89,14 +88,13 @@ body {
 #portrait2 {
       background-image: url('portrait2.png');
       background-size: 230px;
-      background-position-x: -45px;
       height: 230px;
       width: 230px;
       border: 5px solid #eddddf;
       border-radius: 50%;
       margin: auto;
       margin-left: 750px;
-      margin-bottom: 150px;
+      margin-bottom: 400px;
       /*
       margin-left: 150px;
       */
