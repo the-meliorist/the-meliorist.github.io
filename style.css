@@ -58,3 +58,17 @@ body {
   text-shadow: 0 0 3px #edd1d4;
   color: #1c0303;
 }
+
+ #playlist {
+      height: 230px;
+      width: 220px;
+      text-align: center;
+      border: 8px solid #a89295;
+      background: url('ribbonbg.png');
+      background-size: repeat;
+      background-attachment: fixed;
+      position: relative;
+      margin-top: 25px;
+      margin-left: 30px;
+      margin-bottom: -265px;
+      }
