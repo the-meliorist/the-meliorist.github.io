@@ -2,6 +2,7 @@ body {
   background-image:url('bg.gif');
   background-position: center;
   background-size: cover;
+  color: white;
 }
 .welcum {
   margin-top: auto;
