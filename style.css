@@ -153,5 +153,6 @@ a:active {
   overflow: auto;
   padding: 5px;
   position:relative;
+  left: 500px;
   color: #1c0303;
 }
