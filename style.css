@@ -3,6 +3,25 @@ body {
   font-family: Tahoma, Verdana, Helvetica, Arial, sans-serif;
 }
 
+a:link {
+  color: #d1c5c6;
+}
+
+/* visited link */
+a:visited {
+  color: #b0a7a8;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ffd1de;
+}
+
+/* selected link */
+a:active {
+  color: #ad8792;
+}
+
 .home {
   background-image:url('bg.gif');
   background-position: center;
