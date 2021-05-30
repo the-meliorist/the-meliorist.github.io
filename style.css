@@ -113,7 +113,8 @@ a:active {
 #bancred {
   color: #1c0303;
   margin-left: 600px;
-  margin-bottom: 800px;
+  position:relative; 
+  top: 150px;
 }
 
 #chemiccred {
