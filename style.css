@@ -60,8 +60,8 @@ body {
 }
 
  #playlist {
-      height: 300px;
-      width: 380px;
+      height: 380px;
+      width: 300px;
       text-align: center;
       border: 8px solid #a89295;
       position: relative;
