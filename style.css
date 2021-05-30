@@ -3,6 +3,7 @@ body {
   background-position: center;
   background-size: cover;
   color: white;
+  font-family: Verdana, Helvetica, sans-serif;
 }
 .welcum {
   margin-top: auto;
