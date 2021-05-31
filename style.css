@@ -200,4 +200,6 @@ a:active {
   margin-left: 30px;
 }
 
-{cursor: url(https://cur.cursors-4u.net/symbols/sym-6/sym597.cur), auto !important;} 
+a {
+  cursor: url(https://cur.cursors-4u.net/symbols/sym-6/sym597.cur), auto !important;
+} 
