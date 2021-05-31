@@ -1,8 +1,7 @@
 body {
   color: white;
   font-family: Tahoma, Verdana, Helvetica, Arial, sans-serif;
-  cursor: url(https://cur.cursors-4u.net/symbols/sym-6/sym597.cur), default;
-  cursor: url(https://cur.cursors-4u.net/symbols/sym-6/sym599.cur), pointer;
+  cursor: url(https://cur.cursors-4u.net/symbols/sym-6/sym597.cur), default !important;
 }
 
 ::-webkit-scrollbar {
