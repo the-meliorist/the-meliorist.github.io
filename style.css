@@ -184,8 +184,9 @@ a:active {
 }
 
 .stampz {
-  
- overflow: auto;
+  width: 350px;
+  height: 350px;
+  overflow: auto;
   border: #1c0303;
   color: #1c0303;
   position: relative;
