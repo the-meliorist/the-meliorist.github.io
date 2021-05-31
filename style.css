@@ -1,6 +1,7 @@
 body {
   color: white;
   font-family: Tahoma, Verdana, Helvetica, Arial, sans-serif;
+  cursor: url(https://cur.cursors-4u.net/symbols/sym-6/sym597.cur), auto;
 }
 
 ::-webkit-scrollbar {
@@ -199,7 +200,3 @@ a:active {
   top: -290px;
   margin-left: 30px;
 }
-
-a {
-  cursor: url(https://cur.cursors-4u.net/symbols/sym-6/sym597.cur), default, auto;
-} 
