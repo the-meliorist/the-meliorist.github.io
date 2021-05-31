@@ -181,3 +181,13 @@ a:active {
   color: #1c0303;
   background-color: #fff6f7;
 }
+
+.stampz {
+  
+ overflow: auto;
+  border: #1c0303;
+  color: #1c0303;
+  position: relative;
+  top: 250px;
+  margin-left: 30px;
+}
