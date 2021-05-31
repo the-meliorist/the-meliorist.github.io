@@ -103,6 +103,12 @@ a:active {
   color: #1c0303;
 }
 
+#homepage {
+  position: fixed;
+  left: 850px;
+  top: -55px;
+}
+
  #playlist {
       height: 380px;
       width: 300px;
