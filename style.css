@@ -1,7 +1,8 @@
 body {
   color: white;
   font-family: Tahoma, Verdana, Helvetica, Arial, sans-serif;
-  cursor: url(https://cur.cursors-4u.net/symbols/sym-6/sym597.cur), auto !important;
+  cursor: url(https://i.imgur.com/6aVT8Do.png), progress;}
+  a:hover {cursor: url(https://i.imgur.com/6aVT8Do.png), progress;
 }
 
 ::-webkit-scrollbar {
