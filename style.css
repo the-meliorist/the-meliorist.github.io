@@ -45,8 +45,7 @@ a:active {
 
 .home {
   background-image:url('bg.gif');
-  background-position: center;
-  background-size: cover;
+  background-repeat: repeat;
 }
 
 .welcum {
