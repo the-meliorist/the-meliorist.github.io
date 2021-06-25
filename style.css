@@ -73,7 +73,6 @@ a:active {
 .changes {
     display: grid;
     overflow: auto
-    grid-template-columns: 1fr;
     gap: 8px;
     margin-right: 100px;
     padding-top: 10px;
