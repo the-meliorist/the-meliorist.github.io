@@ -72,10 +72,11 @@ a:active {
 
 .changes {
     width: 875;
-    height: 250;
+    height: 225;
     overflow: auto;
     gap: 8px;
     margin-right: 100px;
+    margin-bottom: 4px;
     padding-top: 10px;
     padding-right: 10px;
     padding-bottom: 10px;
