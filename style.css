@@ -210,3 +210,15 @@ a:active {
   background-repeat: repeat;
   color: white;
 }
+
+.thought {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-style: ridge;
+  border-width: 3px;
+  padding: 10px;
+}
+  
+  
