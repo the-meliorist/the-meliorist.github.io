@@ -86,6 +86,9 @@ a:active {
     border-color: white;
 }
 
+li {
+  margin-bottom: 10px;
+}
 
 #abtlink {
   margin-left: 15px;
