@@ -71,7 +71,8 @@ a:active {
 }
 
 .changes {
-    display: grid;
+    width: 875;
+    height: 250;
     overflow: auto;
     gap: 8px;
     margin-right: 100px;
