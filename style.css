@@ -226,4 +226,24 @@ li {
   padding: 10px;
 }
   
+
+/* projects */
+
+
+  .proj {
+  background-image:url('sky.gif');
+  background-repeat: repeat;
+  color: black;
+}
+
+#projects {
+   margin-top: 35px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-style: ridge;
+  border-width: 3px;
+  border-color: #032740;
+  padding: 10px;
+}
   
